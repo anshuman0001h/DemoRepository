@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T16:56:10 IST" name="Default suite" finished-at="2024-07-20T16:56:36 IST" duration-ms="26038">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T16:56:10 IST" name="Default test" finished-at="2024-07-20T16:56:36 IST" duration-ms="26038">
+      <class name="Entrytextbox.registrationTest">
+        <test-method is-config="true" signature="LaunchURl()[pri:0, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:10 IST" name="LaunchURl" finished-at="2024-07-20T16:56:32 IST" duration-ms="21752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURl -->
+        <test-method signature="submit()[pri:1, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:32 IST" name="submit" finished-at="2024-07-20T16:56:36 IST" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method signature="writeUsername()[pri:2, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:36 IST" name="writeUsername" finished-at="2024-07-20T16:56:36 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeUsername -->
+        <test-method signature="writeName()[pri:3, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:36 IST" name="writeName" finished-at="2024-07-20T16:56:36 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeName -->
+        <test-method signature="writeEmail()[pri:4, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:36 IST" name="writeEmail" finished-at="2024-07-20T16:56:36 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeEmail -->
+        <test-method signature="writeContact()[pri:5, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:36 IST" name="writeContact" finished-at="2024-07-20T16:56:36 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeContact -->
+        <test-method signature="selectCountry()[pri:6, instance:Entrytextbox.registrationTest@411f53a0]" started-at="2024-07-20T16:56:36 IST" name="selectCountry" finished-at="2024-07-20T16:56:36 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCountry -->
+      </class> <!-- Entrytextbox.registrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
